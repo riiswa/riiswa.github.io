@@ -8,7 +8,6 @@ cache:
   - node_modules #cache models to speed up the build
 before_install:
 - npm install -g hexo-cli
-- git clone -b master https://github.com/riiswa/hexo-theme-icarus themes/icarus #I forked and modified the them, otherwise clone your theme directly
 install:
 - npm install
 script:
