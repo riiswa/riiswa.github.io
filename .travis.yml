@@ -1,0 +1,20 @@
+language: node_js
+node_js: stable
+branches:
+  only:
+  - master #or your source branch name
+cache:
+  directories:
+  - node_modules #cache models to speed up the build
+before_install:
+- npm install -g hexo-cli
+- git clone -b master https://github.com/riiswa/hexo-theme-icarus themes/icarus #I forked and modified the them, otherwise clone your theme directly
+install:
+- npm install
+script:
+- hexo generate
+after_success: #remember to change name, email address, etc.
+- git config --global user.name "riiswa"
+- git config --global user.email "wradji64@gmail.com"
+- sed -i'' - sed -i'' "s~git@github.com:riiswa/riiswa.github.io.git~https://${REPO_TOKEN}@github.com/riiswa/riiswa.github.io.git~" _config.yml
+- hexo d #
