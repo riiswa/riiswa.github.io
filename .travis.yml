@@ -18,3 +18,11 @@ after_success: #remember to change name, email address, etc.
 - git config --global user.email "wradji64@gmail.com"
 - sed -i'' - sed -i'' "s~git@github.com:riiswa/riiswa.github.io.git~https://${REPO_TOKEN}@github.com/riiswa/riiswa.github.io.git~" _config.yml
 - hexo d 
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  local-dir: public
