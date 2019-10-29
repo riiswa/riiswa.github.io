@@ -39,28 +39,19 @@ navbar:
 footer:
     # Links to be shown on the right of the footer section
     links:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: 'https://creativecommons.org/'
-        Attribution 4.0 International:
-            icon: fab fa-creative-commons-by
-            url: 'https://creativecommons.org/licenses/by/4.0/'
-        Download on GitHub:
-            icon: fab fa-github
-            url: 'https://github.com/riiswa'
 # Article display settings
 article:
     # Code highlight settings
     highlight:
         # Code highlight themes
         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
+        theme: darcula
         # Show code copying button
         clipboard: true
         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
         fold: unfolded
     # Whether to show article thumbnail images
-    thumbnail: true
+    thumbnail: false
     # Whether to show estimate article reading time
     readtime: true
 # Search plugin settings
@@ -68,41 +59,26 @@ article:
 search:
     # Name of the search plugin
     type: insight
+    #cx: 016787429398072481123:angjycwknrk
 # Comment plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
-    # Name of the comment plugin
-    type: 
+    type: disqus
+    shortname: warisradjiblog
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
     -
-        # Donation entry name
-        type: alipay
-        # Qrcode image URL
-        qrcode: ''
-    -
-        # Donation entry name
-        type: wechat
-        # Qrcode image URL
-        qrcode: ''
-    -
-        # Donation entry name
         type: paypal
-        # Paypal business ID or email address
-        business: ''
-        # Currency code
-        currency_code: USD
-    -
-        # Donation entry name
-        type: patreon
-        # URL to the Patreon page
-        url: ''
+        business: 5W9LD74A3MA46
+        currency_code: EUR
+
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
     # Share plugin name
-    type: 
+    type: sharethis
+    install_url: //platform-api.sharethis.com/js/sharethis.js#property=5db7ff3020af1e001258e2a3&product=inline-follow-buttons
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -110,12 +86,12 @@ sidebar:
     left:
         # Whether the left sidebar is sticky when page scrolls
         # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
-        sticky: false
+        sticky: true
     # right sidebar settings
     right:
         # Whether the right sidebar is sticky when page scrolls
         # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/make-a-sidebar-sticky-when-page-scrolls/
-        sticky: false
+        sticky: true
 # Sidebar widget settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
 widgets:
@@ -127,7 +103,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: Waris Radji
         # Title of the author to be shown in the profile widget
-        author_title: Computer Science Student
+        author_title: IT Student | Scala Developer
         # Author's current location to be shown in the profile widget
         location: Paris, France
         # Path or URL to the avatar to be shown in the profile widget
@@ -143,15 +119,12 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/riiswa'
-            Facebook:
-                icon: fab fa-facebook
-                url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
+            LinkedIn:
+                icon: fab fa-linkedin-in
+                url: 'https://www.linkedin.com/in/warisr/'
+            Instagram:
+                icon: fab fa-instagram
+                url: 'https://www.instagram.com/waris.ml/'
             RSS:
                 icon: fas fa-rss
                 url: /
@@ -167,8 +140,7 @@ widgets:
         position: left
         # Links to be shown in the links widget
         links:
-            Hexo: 'https://hexo.io'
-            PPOffice: 'https://github.com/ppoffice'
+            My resume: 'https://riiswa.github.io/My-Resume/'
     -
         # Widget name
         type: category
