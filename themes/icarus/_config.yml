@@ -77,8 +77,7 @@ donate:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
     # Share plugin name
-    type: sharethis
-    install_url: //platform-api.sharethis.com/js/sharethis.js#property=5db7ff3020af1e001258e2a3&product=inline-follow-buttons
+    type: addtoany
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -125,9 +124,12 @@ widgets:
             Instagram:
                 icon: fab fa-instagram
                 url: 'https://www.instagram.com/waris.ml/'
+            Mail:
+                icon: fas fa-envelope
+                url: 'mailto:wradji640gmail.com'
             RSS:
                 icon: fas fa-rss
-                url: /
+                url: /atom.xml
     -
         # Widget name
         type: toc
