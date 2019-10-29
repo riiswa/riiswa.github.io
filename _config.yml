@@ -99,7 +99,8 @@ deploy:
   
 sitemap:
     path: sitemap.xml
-    template: ./sitemap_template.xml
+    tag: false
+    category: false
     
 feed:
   type: atom
