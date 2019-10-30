@@ -8,8 +8,15 @@
     </url>
     
     <url>
+        <loc>https://warisradji.com/404.html</loc>
+        <lastmod>2019-10-30T07:31:05.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://warisradji.com/about/</loc>
-        <lastmod>2019-10-29T22:41:37.947Z</lastmod>
+        <lastmod>2019-10-30T07:31:05.020Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
