@@ -1,11 +1,15 @@
 ---
 title: Hello World !
 date: 2019-10-29 14:24:04
-tags: about-me
+tags: 
+	- about me
+	- presentation
+	- who are you
+	- waris radji
 thumbnail: images/thumbnails/hello-world.png
 ---
 
-## Who Are You?
+## Who Are You? 
 
 My name is Waris Radji, I'm 19 years old, and I presently learning computer science at Université de Paris 13. I have been working  at Laboratoire Scientifique de Paris Nord (LIPN - CNRS) as a Scala Developer to implement an unsupervised learning algorithm in the [Clustering4Ever](https://github.com/Clustering4Ever/Notebooks) library. My goal is to become a doctor in Machine Learning. This is my first blog and I hope you will like it.
 
