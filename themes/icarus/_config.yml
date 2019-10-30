@@ -26,6 +26,7 @@ navbar:
     # Navigation bar menu links
     menu:
         Home: /
+        Projects: /projects
         Archives: /archives
         Categories: /categories
         Tags: /tags
