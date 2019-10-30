@@ -1,17 +1,18 @@
 ---
-title: Hello World !
-date: 2019-10-29 14:24:04
+title: Who is Waris Radji ? My first post!
+date: 2019-10-30 21:27:04
 tags: 
 	- about me
-	- presentation
-	- who are you
 	- waris radji
+	- data sciencist
+	- street lifting
+
 thumbnail: images/thumbnails/hello-world.png
 ---
 
 ## Who Are You? 
 
-My name is Waris Radji, I'm 19 years old, and I presently learning computer science at Université de Paris 13. I have been working  at Laboratoire Scientifique de Paris Nord (LIPN - CNRS) as a Scala Developer to implement an unsupervised learning algorithm in the [Clustering4Ever](https://github.com/Clustering4Ever/Notebooks) library. My goal is to become a doctor in Machine Learning. This is my first blog and I hope you will like it.
+My name is Waris Radji, I'm 19 years old, and I presently learning computer science at Université de Paris 13. I have been working  at Laboratoire Scientifique de Paris Nord (LIPN - CNRS) as a Scala Developer to implement an unsupervised learning algorithm in the [Clustering4Ever](https://github.com/Clustering4Ever/Notebooks) library. I'm also a high-level Street Lifting athlete in the Fundamental Strength Project (FSP) team. My goal is to become a doctor in Machine Learning. This is my first blog and I hope you will like it.
 
 ## Why Are You Blogging?
 
@@ -19,7 +20,7 @@ I think that knowledge is some things that have to be shared to permit our entir
 
 ## What Are You Going To Be Blogging About?
 
-Even if this blog will principally deal with Data Science, Procedural Generation and Programming (mainly in Scala, affirmative it is my favorite language), I would also talk about technology in general, sport (I am a high athlete in Street-Lifting) and anything else that comes to mind. 
+Even if this blog will principally deal with Data Science, Procedural Generation and Programming (mainly in Scala, affirmative it is my favorite language), I would also talk about technology in general, sport (particularly on Street lifting with training methods and statistical analyses) and anything else that comes to mind. 
 
 ## Who Are You Writing For?
 

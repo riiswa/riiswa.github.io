@@ -28,7 +28,6 @@ navbar:
         Home: /
         Projects: /projects
         About: /about
-        Subscribe: /atom.xml
     # Navigation bar links to be shown on the right
     links:
         My GitHub:
@@ -144,7 +143,12 @@ widgets:
             My resume: 'https://riiswa.github.io/My-Resume/'
     -
         # Widget name
-        type: tagcloud
+        type: category
+        # Where should the widget be placed, left or right
+        position: left
+    -
+        # Widget name
+        type: tag
         # Where should the widget be placed, left or right
         position: left
     -
@@ -159,7 +163,7 @@ widgets:
         position: right
     -
         # Widget name
-        type: tag
+        type: newsletter
         # Where should the widget be placed, left or right
         position: right
 # Other plugin settings
