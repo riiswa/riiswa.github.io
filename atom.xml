@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-10-30T12:00:53.175Z</updated>
+  <updated>2019-10-30T20:57:57.725Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World !</title>
-    <link href="https://warisradji.com/2019/10/29/hello-world/"/>
-    <id>https://warisradji.com/2019/10/29/hello-world/</id>
-    <published>2019-10-29T14:24:04.000Z</published>
-    <updated>2019-10-30T12:00:53.175Z</updated>
+    <title>Who is Waris Radji ? My first post!</title>
+    <link href="https://warisradji.com/2019/10/30/hello-world/"/>
+    <id>https://warisradji.com/2019/10/30/hello-world/</id>
+    <published>2019-10-30T21:27:04.000Z</published>
+    <updated>2019-10-30T20:57:57.725Z</updated>
     
     <summary type="html">
     
@@ -39,11 +39,11 @@
     
       <category term="about me" scheme="https://warisradji.com/tags/about-me/"/>
     
-      <category term="presentation" scheme="https://warisradji.com/tags/presentation/"/>
-    
-      <category term="who are you" scheme="https://warisradji.com/tags/who-are-you/"/>
-    
       <category term="waris radji" scheme="https://warisradji.com/tags/waris-radji/"/>
+    
+      <category term="data sciencist" scheme="https://warisradji.com/tags/data-sciencist/"/>
+    
+      <category term="street lifting" scheme="https://warisradji.com/tags/street-lifting/"/>
     
   </entry>
   
