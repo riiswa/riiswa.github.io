@@ -144,11 +144,6 @@ widgets:
             My resume: 'https://riiswa.github.io/My-Resume/'
     -
         # Widget name
-        type: category
-        # Where should the widget be placed, left or right
-        position: left
-    -
-        # Widget name
         type: tagcloud
         # Where should the widget be placed, left or right
         position: left
