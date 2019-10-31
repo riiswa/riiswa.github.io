@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-10-30T20:57:57.725Z</updated>
+  <updated>2019-10-31T11:46:55.874Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Who is Waris Radji ? My first post!</title>
-    <link href="https://warisradji.com/2019/10/30/hello-world/"/>
-    <id>https://warisradji.com/2019/10/30/hello-world/</id>
-    <published>2019-10-30T21:27:04.000Z</published>
-    <updated>2019-10-30T20:57:57.725Z</updated>
+    <title>Hello World ! Welcome to my first blog post !</title>
+    <link href="https://warisradji.com/2019/10/31/hello/"/>
+    <id>https://warisradji.com/2019/10/31/hello/</id>
+    <published>2019-10-31T12:09:56.000Z</published>
+    <updated>2019-10-31T11:46:55.874Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;h2 id=&quot;Who-Are-You&quot;&gt;&lt;a href=&quot;#Who-Are-You&quot; class=&quot;headerlink&quot; title=&quot;Who Are You?&quot;&gt;&lt;/a&gt;Who Are You?&lt;/h2&gt;&lt;p&gt;My name is Waris Radji, I’m 19
+          &lt;p&gt;Welcome to the launch of my new and 1st website! My name is Waris Radji and I’m so excited to share with you my knowledge! The amount of
         
       
     
@@ -40,10 +40,6 @@
       <category term="about me" scheme="https://warisradji.com/tags/about-me/"/>
     
       <category term="waris radji" scheme="https://warisradji.com/tags/waris-radji/"/>
-    
-      <category term="data sciencist" scheme="https://warisradji.com/tags/data-sciencist/"/>
-    
-      <category term="street lifting" scheme="https://warisradji.com/tags/street-lifting/"/>
     
   </entry>
   
