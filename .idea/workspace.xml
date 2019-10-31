@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cbc705e7-6b97-43ee-bd61-968220062e18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/icarus/source/css/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/icarus/source/css/style.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/icarus/source/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/icarus/source/images/background.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572525186903</updated>
-      <workItem from="1572525190418" duration="9764000" />
+      <workItem from="1572525190418" duration="10193000" />
     </task>
     <servers />
   </component>
