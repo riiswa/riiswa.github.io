@@ -24,7 +24,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">Clustering4Ever</h2>
         <p class="card-text">A Big Data Clustering Library gathering clustering, unsupervized algorithms, and quality indices.</p>
-        <a href="https://github.com/Clustering4Ever/Clustering4Ever" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://github.com/Clustering4Ever/Clustering4Ever" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">Snake Scala.js</h2>
         <p class="card-text">A simple reproduction of the snake game made with Scala.js library.</p>
-        <a href="https://riiswa.github.io/snake-scala.js/" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://riiswa.github.io/snake-scala.js/" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">Break-Out Scala.js</h2>
         <p class="card-text">A simple reproduction of the break-out game made with Scala.js library.</p>
-        <a href="https://riiswa.github.io/breakout-scala.js/" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://riiswa.github.io/breakout-scala.js/" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">The Biggest Scala Cheat Sheet</h2>
         <p class="card-text">A big (very big) cheat sheet on the basic notions of scala.</p>
-        <a href="https://riiswa.github.io/Scala-CheatSheet/" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://riiswa.github.io/Scala-CheatSheet/" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">Ant Colony Simulator</h2>
         <p class="card-text">An intelligent ant colony simulation that shows how ants search for food in their environments</p>
-        <a href="https://github.com/riiswa/colony-ant-simulator" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://github.com/riiswa/colony-ant-simulator" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>
@@ -89,7 +89,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       <div class="card-body">
         <h2 class="card-title">ScalaMaze</h2>
         <p class="card-text">A little library that implement some procedural maze generation algorithm in Scala.</p>
-        <a href="https://github.com/riiswa/ScalaMaze" class="btn btn-primary btn-sm">Go</a>
+        <a href="https://github.com/riiswa/ScalaMaze" class="btn btn-primary btn-sm bg-red">Go</a>
       </div>
     </div>
   </div>

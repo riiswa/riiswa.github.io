@@ -1,5 +1,5 @@
 ---
-title: Waris Radji, who am I ?
+title: Who am I ?
 date: 2019-10-31 11:56:50
 ---
 

@@ -43,7 +43,11 @@ module.exports = function (hexo) {
         }
 
         const siteTitle = hexo.extend.helper.get('get_config').bind(this)('title', '', true);
-        return [title, siteTitle].filter(str => typeof (str) !== 'undefined' && str.trim() !== '').join(' - ');
+        const siteSubTitle = hexo.extend.helper.get('get_config').bind(this)('subtitle', '', true);
+        if (this.is_post()){
+            return [title, siteSubTitle].filter(str => typeof (str) !== 'undefined' && str.trim() !== '').join(' - ');
+        } else return [title, siteTitle].filter(str => typeof (str) !== 'undefined' && str.trim() !== '').join(' - ');
+
     });
 
     hexo.extend.helper.register('has_thumbnail', function (post) {
