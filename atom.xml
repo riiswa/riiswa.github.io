@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Waris Radji - Scala, Design and Development</title>
   
-  
+  <subtitle>Waris Radji&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-10-31T11:46:55.874Z</updated>
+  <updated>2019-10-31T15:28:03.548Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-10-31T11:46:55.874Z</updated>
+    <updated>2019-10-31T15:28:03.548Z</updated>
     
     <summary type="html">
     
