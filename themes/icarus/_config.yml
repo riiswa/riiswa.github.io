@@ -27,6 +27,7 @@ navbar:
     menu:
         Home: /
         Projects: /projects
+        Services: /services
         About: /about
     # Navigation bar links to be shown on the right
     links:
