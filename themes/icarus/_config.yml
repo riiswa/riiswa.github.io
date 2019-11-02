@@ -66,12 +66,15 @@ comment:
     shortname: warisradjiblog
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
+#donate:
+#    -
+#        type: paypal
+#        business: 5W9LD74A3MA46
+#        currency_code: EUR
 donate:
     -
-        type: paypal
-        business: 5W9LD74A3MA46
-        currency_code: EUR
-
+        type: paypalme
+        url: https://paypal.me/warisradji
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
