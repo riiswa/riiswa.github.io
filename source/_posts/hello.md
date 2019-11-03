@@ -1,5 +1,5 @@
 ---
-title: Hello World ! Welcome to my first blog post !
+title: Hello World !
 date: 2019-10-31 12:09:56
 tags:
 	- about me

@@ -4,7 +4,7 @@
 
 # Site
 title: Waris Radji - Scala, Design and Development
-subtitle: Waris Radji's Blog
+subtitle: Waris Radji
 description: Waris Radji is a street lifting athlete and IT student at Université de Paris 13. Find on this blog Scala programming, Data Science, Street lifting....
 keywords: scala,java,scala.js,machine learning,data science,programming,development,python,javascript,procedural generation,functionnal programming,scala programming,waris radji,waris,radji,street lifting,street workout
 author: Waris Radji
@@ -95,7 +95,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
   
 sitemap:
     path: sitemap.xml
