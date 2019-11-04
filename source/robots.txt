@@ -4,6 +4,8 @@ Allow: /archives/
 Allow: /categories/
 Allow: /tags/
 Allow: /about/
+Allow: /services/
+Allow: /2019/10/31/hello/
 
 Disallow: /vendors/
 Disallow: /js/
