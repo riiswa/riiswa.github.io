@@ -69,4 +69,4 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
   </ul>
-</div>
+</div> 
