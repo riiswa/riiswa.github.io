@@ -20,4 +20,4 @@ Feel free to take part in my journey by suggesting ideas for articles and even w
 
 ## How can I be informed?
 
-To keep you informed of my future posts I invite you to follow me on my social networks (on the left) and even better on my newsletter (on the right) where you'll be informed each week of my latest posts. Subscribers to my newsletter will be able to receive small gifts! Keep a close eye on your mailbox.
+To keep you informed of my future posts I invite you to follow me on my social networks (on the left) and even better on my newsletter (on the right) where you'll be informed each week of my latest posts. Subscribers to my newsletter will be able to receive small gifts! Keep a close eye on your mailbox.  
