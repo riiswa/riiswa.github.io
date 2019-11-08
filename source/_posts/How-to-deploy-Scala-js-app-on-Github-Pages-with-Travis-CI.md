@@ -1,5 +1,5 @@
 ---
-title: How to deploy Scala.js app on Github Pages with Travis CI ?
+title: Deploying Scala.js app on Github Pages with Travis CI.
 date: 2019-11-08 16:10:37
 tags:
 	- scala.js
@@ -11,18 +11,18 @@ tags:
 	- sbt
 thumbnail: /images/thumbnails/scala.js-travis.png
 category:
-	- Comptuter Science
+	- Computer Science
 ---
 
-> [Scala.js](http://www.scala-js.org/) is a compiler that compiles Scala source code to equivalent Javascript code. That lets you write Scala code that you can run in a web browser, or other environments (Chrome plugins, Node.js, etc.) where Javascript is supported. 
+Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app on Github pages. All your commit on the master branch put your static files on a `gh-pages` branch once the test is validated.
+
+> [Scala.js](http://www.scala-js.org/) is a compiler that compiles Scala source code to equivalent Javascript code. 
 >
 > <small>Li Haoyi : http://www.lihaoyi.com/hands-on-scala-js/</small>
 
 > [Travis CI](https://travis-ci.org/) is a hosted [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) service used to build and test software projects hosted at [GitHub](https://en.wikipedia.org/wiki/GitHub).
 >
-> <small>Wikipedia : https://en.wikipedia.org/wiki/Travis_CI</small>
-
-Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app on Github pages. All your commit on the master branch put your static files on a `gh-pages` branch once the test is validated. 
+> <small>Wikipedia : https://en.wikipedia.org/wiki/Travis_CI</small> 
 
 ## Prerequisites
 
@@ -30,7 +30,13 @@ Before following this tutorial, you need to download and install [sbt](https://w
 
 ##  Create the project 
 
-Run the following command `sbt new scala/hello-world.g8`, and enter a name for your project. This creates a Scala project from the "hello-world" template.
+Run the following command:
+
+```
+sbt new scala/hello-world.g8
+```
+
+, and enter a name for your project. This creates a Scala project from the "hello-world" template.
 
 ## Setup Scala.js 
 
@@ -107,7 +113,7 @@ project/boot/
 project/plugins/project/
 ```
 
-And follow this tutorial to [adding an existing project to GitHub using the command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). **Your repository should be public if you want to use Travis CI for free.**
+And follow this tutorial to [add an existing project to GitHub using the command line](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line). **Your repository should be public if you want to use Travis CI for free.**
 
 ## Setup Travis CI
 
@@ -121,18 +127,17 @@ In this part, I use the free version of Travis CI.
 
 - On the Travis page, go to your repository's setting. Under **Environment Variables**, put **GH_TOKEN** as name and paste the token onto value. Click Add to save it.
 
-- Add and commit `deploy.sh` file to your repository to generate static files on Travis CI (you can adapt this file to your situation.) with the following content:
+- Earlier we created the `source` folder to place the static files of our app in it. To generate static files Travis CI copies the content of a `public` folder to the root of a project and commits it to the `gh-pages` branch. We will create a script to move our static files to a public folder. 
 
+  Add and commit `deploy.sh` file to your repository to generate static files on Travis CI with the following content:
+  
   ```bash
-  # Create public folder if don't exist
   if [ ! -d "public" ]; then 
   	mkdir public
   fi
   
-  # Copy source content to public
   cp -fr source/* public/
   
-  # Create js folder if don't exist
   if [ ! -d "public/js" ]; then 
   	mkdir public/js
   fi
@@ -140,10 +145,9 @@ In this part, I use the free version of Travis CI.
   # Generate .js files from Scala
   sbt fastOptJS
   
-  # Move generates . js files to public/js 
   cp target/scala-*/*.js public/js/
   ```
-
+  
 - Add  and commit `.travis.yml` file to your repository to configure Travis CI with the following content:
 
   ```yaml
@@ -167,7 +171,7 @@ In this part, I use the free version of Travis CI.
     local-dir: public
   ```
 
-Once Travis CI finish the deployment, the generated pages can be found in the `gh-pages` branch of your repository
+Once Travis CI finish the deployment, the generated pages can be found in the `gh-pages` branch of your repository.
 
 ## Your Scala.js App is deployed on Github Pages !
 

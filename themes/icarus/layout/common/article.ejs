@@ -48,20 +48,6 @@
         <div class="content">
             <%- index && post.excerpt ? post.excerpt : post.content %>
         </div>
-        <% if (!index && post.tags && post.tags.length) { %>
-        <div class="level is-size-7 is-uppercase">
-            <div class="level-start">
-                <div class="level-item">
-                    <span class="is-size-6 has-text-grey has-mr-7">#</span>
-                    <%- list_tags(post.tags, {
-                        class: 'has-link-grey ',
-                        show_count: false,
-                        style: 'link'
-                    }) %>
-                </div>
-            </div>
-        </div>
-        <% } %>
         <% if (index && post.excerpt) { %>
         <div class="level is-mobile">
             <div class="level-start">
