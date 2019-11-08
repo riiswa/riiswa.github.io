@@ -19,6 +19,8 @@
             image: get_og_image(page)
         }) %>
     <% } %>
+<% } else {%>
+<meta name="robots" content="noindex">
 <% } %>
 
 <% if (has_config('canonical_url')) { %>
