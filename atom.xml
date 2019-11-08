@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-11-08T19:19:36.873Z</updated>
+  <updated>2019-11-08T20:27:13.823Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>How to deploy Scala.js app on Github Pages with Travis CI ?</title>
+    <title>Deploying Scala.js app on Github Pages with Travis CI.</title>
     <link href="https://warisradji.com/2019/11/08/How-to-deploy-Scala-js-app-on-Github-Pages-with-Travis-CI/"/>
     <id>https://warisradji.com/2019/11/08/How-to-deploy-Scala-js-app-on-Github-Pages-with-Travis-CI/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2019-11-08T19:19:36.873Z</updated>
+    <updated>2019-11-08T20:27:13.823Z</updated>
     
     <summary type="html">
     
@@ -29,14 +29,14 @@
       
         
         
-          &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://www.scala-js.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Scala.js&lt;/a&gt; is a compiler that compiles Scala source code
+          &lt;p&gt;Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app on Github pages. All your
         
       
     
     </summary>
     
     
-      <category term="Comptuter Science" scheme="https://warisradji.com/categories/Comptuter-Science/"/>
+      <category term="Computer Science" scheme="https://warisradji.com/categories/Computer-Science/"/>
     
     
       <category term="scala.js" scheme="https://warisradji.com/tags/scala-js/"/>
@@ -60,7 +60,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-11-08T19:19:36.873Z</updated>
+    <updated>2019-11-08T20:27:13.823Z</updated>
     
     <summary type="html">
     
