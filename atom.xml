@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-11-04T19:00:19.215Z</updated>
+  <updated>2019-11-08T19:12:28.621Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>How to deploy Scala.js app on Github Pages with Travis CI ?</title>
+    <link href="https://warisradji.com/2019/11/08/How-to-deploy-Scala-js-app-on-Github-Pages-with-Travis-CI/"/>
+    <id>https://warisradji.com/2019/11/08/How-to-deploy-Scala-js-app-on-Github-Pages-with-Travis-CI/</id>
+    <published>2019-11-08T16:10:37.000Z</published>
+    <updated>2019-11-08T19:12:28.621Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://www.scala-js.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Scala.js&lt;/a&gt; is a compiler that compiles Scala source code
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Comptuter Science" scheme="https://warisradji.com/categories/Comptuter-Science/"/>
+    
+    
+      <category term="scala.js" scheme="https://warisradji.com/tags/scala-js/"/>
+    
+      <category term="github pages" scheme="https://warisradji.com/tags/github-pages/"/>
+    
+      <category term="travis ci" scheme="https://warisradji.com/tags/travis-ci/"/>
+    
+      <category term="scala.js tutorial" scheme="https://warisradji.com/tags/scala-js-tutorial/"/>
+    
+      <category term="scala.js examples" scheme="https://warisradji.com/tags/scala-js-examples/"/>
+    
+      <category term="compile scala to js" scheme="https://warisradji.com/tags/compile-scala-to-js/"/>
+    
+      <category term="sbt" scheme="https://warisradji.com/tags/sbt/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World !</title>
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-11-04T19:00:19.215Z</updated>
+    <updated>2019-11-08T19:12:28.621Z</updated>
     
     <summary type="html">
     
