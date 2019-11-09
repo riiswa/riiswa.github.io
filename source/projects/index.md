@@ -8,7 +8,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
 <div class="main">
   <ul class="cards">
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="https://avatars1.githubusercontent.com/u/31044545?s=400&v=4"  alt="Clustering4Ever logo"></div>
         <div class="card_content">
           <h2 class="card_title">Clustering4Ever</h2>
@@ -18,7 +18,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="../images/snake.png" alt="Snake game screenshot"></div>
         <div class="card_content">
           <h2 class="card_title">Snake Scala.js</h2>
@@ -28,7 +28,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="../images/breakout.png" alt="Break-out game screenshot"></div>
         <div class="card_content">
           <h2 class="card_title">Break-Out Scala.js</h2>
@@ -38,7 +38,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="../images/scala-cs.png" alt="Scala Cheat Sheet"></div>
         <div class="card_content">
           <h2 class="card_title">The Biggest Scala Cheat Sheet</h2>
@@ -48,7 +48,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="https://github.com/riiswa/colony-ant-simulator/raw/master/screenshot.gif" alt="Scala Cheat Sheet"></div>
         <div class="card_content">
           <h2 class="card_title">Ant Colony Simulator</h2>
@@ -58,7 +58,7 @@ A non-exhaustive list of open-source projects to which I have contributed.
       </div>
     </li>
     <li class="cards_item">
-      <div class="card">
+      <div class="card1">
         <div class="card_image"><img src="https://user-images.githubusercontent.com/24685602/57581816-4a8e6e00-74bd-11e9-837e-4c288d382a47.gif" alt="Scala Cheat Sheet"></div>
         <div class="card_content">
           <h2 class="card_title">ScalaMaze</h2>
