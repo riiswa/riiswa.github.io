@@ -131,7 +131,7 @@ In this part, I use the free version of Travis CI.
 
   Add and commit `deploy.sh` file to your repository to generate static files on Travis CI with the following content:
   
-  ```bash
+```bash
   if [ ! -d "public" ]; then 
   	mkdir public
   fi
@@ -146,11 +146,11 @@ In this part, I use the free version of Travis CI.
   sbt fastOptJS
   
   cp target/scala-*/*.js public/js/
-  ```
-  
+```
+
 - Add  and commit `.travis.yml` file to your repository to configure Travis CI with the following content:
 
-  ```yaml
+```yaml
   language: scala
   jdk: openjdk8
   scala:
@@ -169,7 +169,7 @@ In this part, I use the free version of Travis CI.
     on:
       branch: master
     local-dir: public
-  ```
+```
 
 Once Travis CI finish the deployment, the generated pages can be found in the `gh-pages` branch of your repository.
 
