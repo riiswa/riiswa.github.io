@@ -9,6 +9,9 @@ tags:
 	- scala.js examples
 	- compile scala to js
 	- sbt
+	- scala
+	- javascript
+	- web
 thumbnail: /images/thumbnails/scala.js-travis.png
 category:
 	- Computer Science
