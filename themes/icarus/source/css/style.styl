@@ -14,7 +14,7 @@ html
     font-size: 14px
 
 body
-    background-color: #f2e6ea
+    background-color: #F7F7F7
     background-image: url("/images/background.jpg")
     background-size: cover
     background-position: center center
@@ -42,6 +42,8 @@ body, button, input, select, textarea
 @media screen and (max-width: screen-tablet - 1)
     .section
         padding: 1.5rem 1rem
+    body
+        background-image: unset !important
 
 @media screen and (min-width: screen-tablet)
     .column-main,
@@ -56,8 +58,6 @@ body, button, input, select, textarea
     .column-right-shadow
         &.is-sticky
             top: 1.5rem
-    body
-        background-image: unset !important
 
 .tag
     &.is-grey
