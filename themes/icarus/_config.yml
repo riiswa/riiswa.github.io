@@ -173,10 +173,10 @@ widgets:
 # Other plugin settings
 plugins:
     # Enable page animations
-    animejs: true
+    animejs: false
     # Enable the lightGallery and Justified Gallery plugins
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/gallery-plugin/
-    gallery: true
+    gallery: false
     # Enable the Outdated Browser plugin
     # http://outdatedbrowser.com/
     outdated-browser: true
