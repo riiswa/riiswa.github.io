@@ -104,7 +104,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: Waris Radji
         # Title of the author to be shown in the profile widget
-        author_title: IT Student | Scala Developer
+        author_title: Scala & Data Science Enthusiast, looking for an 12 months Internship in R&D
         # Author's current location to be shown in the profile widget
         location: Paris, France
         # Path or URL to the avatar to be shown in the profile widget
@@ -134,6 +134,14 @@ widgets:
                 url: /atom.xml
     -
         # Widget name
+        type: links
+        # Where should the widget be placed, left or right
+        position: left
+        # Links to be shown in the links widget
+        links:
+            My resume: 'https://riiswa.github.io/My-Resume/'
+    -
+        # Widget name
         type: toc
         # Where should the widget be placed, left or right
         position: left
@@ -144,12 +152,12 @@ widgets:
         position: left
     -
         # Widget name
-        type: tag
+        type: recent_posts
         # Where should the widget be placed, left or right
-        position: left
+        position: right
     -
         # Widget name
-        type: recent_posts
+        type: tag
         # Where should the widget be placed, left or right
         position: right
     -
@@ -157,19 +165,7 @@ widgets:
         type: archive
         # Where should the widget be placed, left or right
         position: right
-    -
-        # Widget name
-        type: tagcloud
-        # Where should the widget be placed, left or right
-        position: right 
-    -
-        # Widget name
-        type: links
-        # Where should the widget be placed, left or right
-        position: right
-        # Links to be shown in the links widget
-        links:
-            My resume: 'https://riiswa.github.io/My-Resume/'
+
 # Other plugin settings
 plugins:
     # Enable page animations
