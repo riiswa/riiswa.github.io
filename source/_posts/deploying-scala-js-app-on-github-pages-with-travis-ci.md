@@ -1,5 +1,5 @@
 ---
-title: Deploying Scala.js app on Github Pages with Travis CI.
+title: Deploying Scala.js app on Github Pages with Travis CI
 date: 2019-11-08 16:10:37
 tags:
 	- scala.js
@@ -14,7 +14,7 @@ tags:
 	- web
 thumbnail: /images/thumbnails/scala.js-travis.png
 category:
-	- Computer Science
+	- Programming
 ---
 
 Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app on Github pages. All your commit on the master branch put your static files on a `gh-pages` branch once the test is validated.

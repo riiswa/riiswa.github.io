@@ -157,7 +157,7 @@ widgets:
         position: right
     -
         # Widget name
-        type: tag
+        type: tagcloud
         # Where should the widget be placed, left or right
         position: right
     -
@@ -178,7 +178,7 @@ plugins:
     outdated-browser: true
     # Enable the MathJax plugin
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/mathjax-plugin/
-    mathjax: false
+    mathjax: true
     # Show the back to top button on mobile devices
     back-to-top: true
     # Google Analytics plugin settings
