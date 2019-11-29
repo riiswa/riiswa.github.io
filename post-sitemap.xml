@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</loc>
-        <lastmod>2019-11-28T20:52:15.796Z</lastmod>
+        <lastmod>2019-11-29T07:50:32.592Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +17,15 @@
 
     <url>
         <loc>https://warisradji.com/2019/10/31/hello/</loc>
-        <lastmod>2019-11-28T20:52:15.796Z</lastmod>
+        <lastmod>2019-11-29T07:50:32.592Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</loc>
+        <lastmod>2019-11-29T07:50:32.592Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

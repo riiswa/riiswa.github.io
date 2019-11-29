@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-11-28T20:52:15.796Z</updated>
+  <updated>2019-11-29T07:50:32.592Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Deploying Scala.js app on Github Pages with Travis CI.</title>
+    <title>Name color from its RGB value</title>
+    <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
+    <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
+    <published>2019-11-29T08:49:00.000Z</published>
+    <updated>2019-11-29T07:50:32.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Today we’re going to see how supervized learning model can help a machine to name color from its RGB value. The programming language
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Data Science" scheme="https://warisradji.com/categories/Data-Science/"/>
+    
+    
+      <category term="python" scheme="https://warisradji.com/tags/python/"/>
+    
+      <category term="machine learning" scheme="https://warisradji.com/tags/machine-learning/"/>
+    
+      <category term="data science" scheme="https://warisradji.com/tags/data-science/"/>
+    
+      <category term="color" scheme="https://warisradji.com/tags/color/"/>
+    
+      <category term="k nearest neighbors" scheme="https://warisradji.com/tags/k-nearest-neighbors/"/>
+    
+      <category term="data visualization" scheme="https://warisradji.com/tags/data-visualization/"/>
+    
+      <category term="classification" scheme="https://warisradji.com/tags/classification/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Deploying Scala.js app on Github Pages with Travis CI</title>
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2019-11-28T20:52:15.796Z</updated>
+    <updated>2019-11-29T07:50:32.592Z</updated>
     
     <summary type="html">
     
@@ -36,7 +75,7 @@
     </summary>
     
     
-      <category term="Computer Science" scheme="https://warisradji.com/categories/Computer-Science/"/>
+      <category term="Programming" scheme="https://warisradji.com/categories/Programming/"/>
     
     
       <category term="scala.js" scheme="https://warisradji.com/tags/scala-js/"/>
@@ -66,7 +105,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-11-28T20:52:15.796Z</updated>
+    <updated>2019-11-29T07:50:32.592Z</updated>
     
     <summary type="html">
     
