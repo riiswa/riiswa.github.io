@@ -27,7 +27,7 @@ navbar:
     menu:
         Home: /
         Projects: /projects
-        Services: /services
+        Resume: 'https://riiswa.github.io/My-Resume/'
         About: /about
     # Navigation bar links to be shown on the right
     links:
