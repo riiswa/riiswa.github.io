@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-11-29T09:03:53.616Z</updated>
+  <updated>2019-12-14T17:10:58.451Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Using Matplotlib with Scala on Jupyter Notebook (and more...)</title>
+    <link href="https://warisradji.com/2019/12/14/using-scala-with-matplotlib/"/>
+    <id>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</id>
+    <published>2019-12-14T18:10:59.000Z</published>
+    <updated>2019-12-14T17:10:58.451Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Data visualization is very important in the life of a data scientist. It helps him to explore data more intuitively than thousands of
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Data Science" scheme="https://warisradji.com/categories/Data-Science/"/>
+    
+    
+      <category term="scala" scheme="https://warisradji.com/tags/scala/"/>
+    
+      <category term="python" scheme="https://warisradji.com/tags/python/"/>
+    
+      <category term="data science" scheme="https://warisradji.com/tags/data-science/"/>
+    
+      <category term="data visualization" scheme="https://warisradji.com/tags/data-visualization/"/>
+    
+      <category term="matplotlib" scheme="https://warisradji.com/tags/matplotlib/"/>
+    
+      <category term="jupyter notebook" scheme="https://warisradji.com/tags/jupyter-notebook/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Name color from its RGB value</title>
     <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
     <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
     <published>2019-11-29T08:49:00.000Z</published>
-    <updated>2019-11-29T09:03:53.616Z</updated>
+    <updated>2019-12-14T17:10:58.451Z</updated>
     
     <summary type="html">
     
@@ -60,7 +97,7 @@
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2019-11-29T09:03:53.616Z</updated>
+    <updated>2019-12-14T17:10:58.451Z</updated>
     
     <summary type="html">
     
@@ -105,7 +142,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-11-29T09:03:53.616Z</updated>
+    <updated>2019-12-14T17:10:58.451Z</updated>
     
     <summary type="html">
     
