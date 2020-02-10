@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2019-12-14T17:10:58.451Z</updated>
+  <updated>2020-02-10T22:13:58.383Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,46 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Automatic &amp; Targeted Instagram Mass Story Viewer</title>
+    <link href="https://warisradji.com/2020/02/11/mass-story-viewer/"/>
+    <id>https://warisradji.com/2020/02/11/mass-story-viewer/</id>
+    <published>2020-02-11T08:00:00.000Z</published>
+    <updated>2020-02-10T22:13:58.383Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Instagram&lt;/a&gt; influencers discovered a new way to increase their
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Programming" scheme="https://warisradji.com/categories/Programming/"/>
+    
+    
+      <category term="automation" scheme="https://warisradji.com/tags/automation/"/>
+    
+      <category term="python" scheme="https://warisradji.com/tags/python/"/>
+    
+      <category term="instagram" scheme="https://warisradji.com/tags/instagram/"/>
+    
+      <category term="growth hacking" scheme="https://warisradji.com/tags/growth-hacking/"/>
+    
+      <category term="bot" scheme="https://warisradji.com/tags/bot/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Using Matplotlib with Scala on Jupyter Notebook (and more...)</title>
     <link href="https://warisradji.com/2019/12/14/using-scala-with-matplotlib/"/>
     <id>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</id>
     <published>2019-12-14T18:10:59.000Z</published>
-    <updated>2019-12-14T17:10:58.451Z</updated>
+    <updated>2020-02-10T22:13:58.383Z</updated>
     
     <summary type="html">
     
@@ -58,7 +93,7 @@
     <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
     <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
     <published>2019-11-29T08:49:00.000Z</published>
-    <updated>2019-12-14T17:10:58.451Z</updated>
+    <updated>2020-02-10T22:13:58.383Z</updated>
     
     <summary type="html">
     
@@ -97,7 +132,7 @@
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2019-12-14T17:10:58.451Z</updated>
+    <updated>2020-02-10T22:13:58.383Z</updated>
     
     <summary type="html">
     
@@ -142,7 +177,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2019-12-14T17:10:58.451Z</updated>
+    <updated>2020-02-10T22:13:58.383Z</updated>
     
     <summary type="html">
     
