@@ -13,9 +13,9 @@ category:
 	- Programming
 ---
 
-[Instagram](https://www.instagram.com/) influencers discovered a new way to increase their number of followers. This technique is called [mass story viewing](https://www.konstantinkanin.com/en/instagram-mass-story-viewing/) (or mass story looking). Haven't you ever seen Russian Instagram accounts with thousands of followers watching your insignificant stories?
+[Instagram](https://www.instagram.com/) influencers discovered a new way to increase their number of followers. This technique is called [mass story viewing](https://www.konstantinkanin.com/en/instagram-mass-story-viewing/) (or mass story looking). Have you ever seen Russian Instagram accounts with thousands of followers watching your insignificant stories?
 
-This method has become popular because contrary to follow-unfollow or spam comments, the mass looking is not known to be very sanctioned by Instagram (Instagram can suspend or delete your account if there are suspicious activities).
+This method has become popular because contrary to follow-unfollow or spam comments, mass looking is not known to be very sanctioned by Instagram (Instagram can suspend or delete your account if there are suspicious activities).
 
 A real business has emerged around the mass story viewing. For example, I've seen a site that offers mass looking services for $155 per month. It's very expensive and not accessible for everyone.
 
@@ -55,7 +55,7 @@ All these methods return a list of the user ids targeted by the filter.
 
 ## Story viewing
 
-instabot really makes story viewing easier with the method `bot.watch_users_reels(USER_ID)`, which takes a user id as a parameter and returns a boolean that represents the success of look. 
+instabot really makes story viewing easier with the method `bot.watch_users_reels(USER_ID)`, which takes a user id as a parameter and returns a boolean that represents the success of the viewing. 
 
 It's therefore very easy to combine user targeting with story viewing taking the hashtag filter:
 
