@@ -1,3 +1,4 @@
+<% if (page["__index"]) { %>
 <style>
     .ml15 {
   font-weight: 500;
@@ -47,6 +48,7 @@ anime.timeline({loop: false})
   })
 </script>
 
+<% } %>
 
 <% page.posts.each(function(post){ %>
     <%- _partial('common/preview', { post, index: true }) %>
