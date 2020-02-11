@@ -6,6 +6,9 @@ tags:
 	- python
 	- instagram
 	- growth hacking
+	- mass story viewer
+	- mass looking
+	- social network
 	- bot
 
 thumbnail: /images/thumbnails/mass-view.png
