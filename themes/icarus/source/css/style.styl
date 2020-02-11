@@ -1,5 +1,5 @@
-family-sans = "Ubuntu", "Roboto", "Open Sans", "Microsoft YaHei", sans-serif
-family-mono = "Source Code Pro", monospace, "Microsoft YaHei"
+family-sans = "Raleway", "Ubuntu", "Roboto", "Open Sans", "Microsoft YaHei", sans-serif
+family-mono = "Fira Code", "Source Code Pro", monospace, "Microsoft YaHei"
 gap = 64px
 screen-tablet = 769px
 screen-desktop = 1088px
@@ -22,6 +22,7 @@ body
 
 a
     color: my-red
+    cursor: url("/images/cursor/pointer.png"), auto
 
 body, button, input, select, textarea
     font-family: family-sans
@@ -420,7 +421,7 @@ figure.highlight
 
         .fold
             margin-right: 0.5em
-            cursor: pointer
+            cursor: url("/images/cursor/pointer.png"), auto
 
     .highlight-body
         overflow: auto
@@ -513,7 +514,7 @@ html
   display block
   width 100%
   text-align center
-  cursor pointer
+  cursor url("/images/cursor/pointer.png"), auto
   border 1px solid rgba(255, 255, 255, 0.2)
   background transparent
   &:hover
