@@ -1,4 +1,4 @@
-family-sans = "Raleway", "Ubuntu", "Roboto", "Open Sans", "Microsoft YaHei", sans-serif
+family-sans = "Raleway", "Ubuntu", "Roboto", "Open Sans", "Microsoft YaHei", sans-serif!important
 family-mono = "Fira Code", "Source Code Pro", monospace, "Microsoft YaHei"
 gap = 64px
 screen-tablet = 769px
@@ -22,7 +22,7 @@ body
 
 a
     color: my-red
-    cursor: url("/images/cursor/pointer.png"), auto
+    cursor: url("/images/cursor/pointer.png"), auto!important
 
 body, button, input, select, textarea
     font-family: family-sans
@@ -488,87 +488,102 @@ figure.highlight
     background-color my-red !important
     
 /* ---------------------------------
- *             Cards
+ *        Fix Gist Snippet
  * --------------------------------- */
-*,
-*::before,
-*::after
-  box-sizing border-box
 
-html
-  background-color #ecf9ff
+ .card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
 
-.main
-  max-width 1200px
-  margin 0 auto
+.d-flex {
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
 
-.card_image
-  height auto
-  max-width 100%
-  vertical-align middle
+@media (min-width: 768px) {
+  .flex-md-row {
+    -ms-flex-direction: row !important;
+    flex-direction: row !important;
+  }
+}
 
-.btn
-  color #ffffff
-  padding 0.8rem
-  font-size 14px
-  text-transform uppercase
-  border-radius 4px
-  font-weight 400
-  display block
-  width 100%
-  text-align center
-  cursor url("/images/cursor/pointer.png"), auto
-  border 1px solid rgba(255, 255, 255, 0.2)
-  background transparent
-  &:hover
-    background-color rgba(255, 255, 255, 0.12)
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
 
-.cards
-  display flex
-  flex-wrap wrap
-  list-style none
-  margin 0
-  padding 0
+.rounded {
+  border-radius: 0.25rem !important;
+}
 
-.cards_item
-  display flex
-  padding 1rem
-  list-style none
-  padding-left 0
+.mx-auto {
+  margin-right: auto !important;
+}
 
-@media (min-width: 40rem)
-  .cards_item
-    width 50%
+.d-block {
+  display: block !important;
+}
 
-@media (min-width: 56rem)
-  .cards_item
-    width 50%
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+}
 
-.card1
-  background-color white
-  border-radius 0.25rem
-  box-shadow 0 20px 40px -14px rgba(0, 0, 0, 0.25)
-  display flex
-  flex-direction column
-  overflow hidden
+.card-title {
+  margin-bottom: 0.75rem;
+}
 
-.card_content
-  padding 1rem
-  background linear-gradient(to bottom left, my-red 40%, #FFC39E 200%)
+.card-text:last-child {
+  margin-bottom: 0;
+}
 
-.card_title
-  color #ffffff
-  font-size 1.1rem
-  font-weight 700
-  letter-spacing 1px
-  text-transform capitalize
-  margin 0px
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
 
-.card_text
-  color #ffffff
-  font-size 0.875rem
-  line-height 1.5
-  margin-bottom 1.25rem
-  font-weight 400
+.btn-primary {
+  color: white;
+  background-color: my-red;
+  border-color: my-red;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 5px;
+}
 
-    
+.card-img {
+    max-width: 200px !important
+    min-width: 200px !important
+    height: auto
+}
+
+
+
