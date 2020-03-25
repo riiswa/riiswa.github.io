@@ -31,7 +31,7 @@ function pagination(c, m) {
     }
     return elements;
 } %>
-<div class="card card-transparent">
+<div class="card">
     <nav class="pagination is-centered" role="navigation" aria-label="pagination">
         <div class="pagination-previous<%= page.current > 1 ? '' : ' is-invisible is-hidden-mobile' %>">
             <a class="is-flex-grow has-text-black-ter" href="<%= link_url(page.current - 1) %>"><%= __('common.prev') %></a>

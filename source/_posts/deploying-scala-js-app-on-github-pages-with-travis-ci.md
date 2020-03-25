@@ -5,10 +5,7 @@ tags:
 	- scala.js
 	- github pages
 	- travis ci
-	- scala.js tutorial
-	- scala.js examples
-	- compile scala to js
-	- sbt
+	-  tutorial
 	- scala
 	- javascript
 	- web
