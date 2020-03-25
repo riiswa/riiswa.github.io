@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</loc>
+        <lastmod>2020-03-25T20:04:33.231Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</loc>
-        <lastmod>2020-02-12T20:16:27.379Z</lastmod>
+        <lastmod>2020-03-25T20:04:33.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +25,15 @@
 
     <url>
         <loc>https://warisradji.com/2019/10/31/hello/</loc>
-        <lastmod>2020-02-12T20:16:27.379Z</lastmod>
+        <lastmod>2020-03-25T20:04:33.227Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://warisradji.com/2020/03/25/making-art-with-scala-processing/</loc>
+        <lastmod>2020-03-25T20:04:33.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,7 +41,7 @@
 
     <url>
         <loc>https://warisradji.com/2020/02/11/mass-story-viewer/</loc>
-        <lastmod>2020-02-12T20:16:27.379Z</lastmod>
+        <lastmod>2020-03-25T20:04:33.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,15 +49,7 @@
 
     <url>
         <loc>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</loc>
-        <lastmod>2020-02-12T20:16:27.379Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</loc>
-        <lastmod>2020-02-12T20:16:27.379Z</lastmod>
+        <lastmod>2020-03-25T20:04:33.227Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
