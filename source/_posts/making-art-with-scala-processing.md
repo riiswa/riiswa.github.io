@@ -105,11 +105,7 @@ object BallApp extends PApplet {
 
   override def draw(): Unit = {
     background(255)
-    balls.zipWithIndex.foreach {
-      case (ball, i) =>
-        balls.update(i, ball.next)
-        balls(i).render()
-    }
+    balls.transform(_.next).foreach(_.render())
   }
   
   override def mouseClicked(): Unit =
