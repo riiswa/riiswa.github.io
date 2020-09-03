@@ -2,8 +2,16 @@
 title: Comment intégrer une bonne école d'ingénieurs après un DUT ?
 date: 2020-09-03 14:02:21
 tags:
+	- education
+	- school
+	- engineer
+	- degree
+	- graduation
+	- sucess
+
 thumbnail: /images/thumbnails/engineer.jpg
 category:
+	- Education
 ---
 
 Les grandes écoles d'ingénieur commencent à s'intéresser de plus en plus aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
