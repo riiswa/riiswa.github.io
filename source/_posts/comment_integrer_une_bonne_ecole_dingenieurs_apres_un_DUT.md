@@ -14,14 +14,14 @@ category:
 	- Education
 ---
 
-Les grandes écoles d'ingénieur commencent de plus en plus à s'intéresser aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
+Les grandes écoles d'ingénieurs commencent de plus en plus à s'intéresser aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
 
 Après avoir obtenu mon baccalauréat scientifique en 2018, deux choix s'offraient à moi pour entrer en école d'ingénieurs :
 
-- La voie royale, deux années de prépas scientifiques très intensives et théorique, avec une bonne chance d'accéder à une bonne école.
+- La voie royale, deux années de prépas scientifiques très intensives et théoriques, avec une bonne chance d'accéder à une bonne école.
 - Le diplôme universitaire de technologie (DUT), plus proche de ma passion pour les technologies et davantage pluridisciplinaire, mais avec très peu d'admissions dans la plupart des formations ingénieurs.
 
-Au vu du titre de l'article, vous avez sûrement deviné mon choix. Un choix que je ne regrette pas, car j'intègre l'[ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr) de l'institut polytechnique de Bordeaux pour la rentrée scolaire septembre 2020 à l'issue mes deux années de [DUT informatique à l'IUT de Villetaneuse](https://iutv.univ-paris13.fr/dut-informatique/). Mon expérience personnelle ainsi que celles de mes camarades me confèrent le pouvoir de divulguer les mystérieux secrets qui se cachent derrière les admissions parallèles. Même si je m'adresse ici principalement aux futurs diplômés de DUT Informatique, je pense que ces conseils peuvent s'appliquer aux personnes issues d'autres formations scientifique. Cet article n'est pas le guide "ULTIME", mais tout simplement ma vision des choses.
+Au vu du titre de l'article, vous avez sûrement deviné mon choix. Un choix que je ne regrette pas, car j'intègre l'[ENSEIRB-MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr) de l'Institut Polytechnique de Bordeaux pour la rentrée scolaire septembre 2020, à l'issue de mes deux années de [DUT informatique à l'IUT de Villetaneuse](https://iutv.univ-paris13.fr/dut-informatique/). Mon expérience personnelle ainsi que celles de mes camarades me confèrent le pouvoir de divulguer les mystérieux secrets qui se cachent derrière les admissions parallèles. Même si je m'adresse ici principalement aux futurs diplômés de DUT Informatique, je pense que ces conseils peuvent s'appliquer aux personnes issues d'autres formations scientifique qui souhaitent effectuer des admissions parallèles. Cet article n'est pas le guide "ULTIME", mais tout simplement ma vision des choses.
 
 ## Quelle école choisir ?
 
@@ -31,21 +31,21 @@ Votre choix dépendra des spécialités proposées dans les différentes écoles
 
 Certaines écoles ont un nombre de places reversées aux DUT. Il faut noter qu'avec un diplôme "technique" vous aurez beaucoup plus de chances d'intégrer une formation ingénieur en alternance qu'une formation "classique", une bonne solution pour gagner en expérience et en argent 🤑.
 
-Pour vos recherches, je vous recommande de demander directement conseil à vos professeurs et vos responsables de formation, de participer à des forums d'orientation et de faire des recherches sur Internet, notamment le site [L'Etudiant](https://www.letudiant.fr/) et son [classement des écoles d'ingénieurs](https://www.letudiant.fr/palmares/liste-profils/palmares-des-ecoles-d-ingenieurs/palmares-general-des-ecoles-d-ingenieurs/home.html#indicateurs=900659,900660,900661,900677&criterias) qui permet de filtrer les établissements selon plusieurs critères. Sur les fiches des écoles vous pourrez voir les critères de "Nombre d'intégrés issus de DUT" et d'"Ouverture à de nouveaux publics" qui pourront en dire long sur vos chances d'admission.
+Pour vos recherches, je vous recommande de demander directement conseil à vos professeurs et vos responsables de formation, de participer à des forums d'orientation et de faire des recherches sur Internet, notamment sur le site de [L'Etudiant](https://www.letudiant.fr/) et son [classement des écoles d'ingénieurs](https://www.letudiant.fr/palmares/liste-profils/palmares-des-ecoles-d-ingenieurs/palmares-general-des-ecoles-d-ingenieurs/home.html#indicateurs=900659,900660,900661,900677&criterias) qui permet de filtrer les établissements selon plusieurs critères. Sur les fiches des écoles vous pourrez voir les critères de "Nombre d'intégrés issus de DUT" et d'"Ouverture à de nouveaux publics" qui pourront en dire long sur vos chances d'admission.
 
 ## Le dossier idéal
 
-Maintenant que vous avez trouvé l'école qu'il vous correspond, il vous faut maximiser vos chances d'être le candidat idéal en constituant un dossier atypique et solide. 
+Maintenant que vous avez trouvé l'école qui vous correspond, il vous faut maximiser vos chances d'être le candidat idéal en constituant un dossier atypique et solide. 
 
 ### Résultats scolaires
 
 Avant de s'intéresser à qui vous êtes, la plupart des écoles regarderont vos notes qui en diront déjà beaucoup sur votre personnalité. Les grands établissements sont à la recherche de l'excellence académique, être le plus excellent possible augmente considérablement vos chances d'admission, même si bien évidemment, les notes ne font pas tout.
 
-Même si les écoles regarderont principalement les notes en mathématiques, en anglais et celles relatives à vos enseignements de spécialité, il est important d'avoir un bon équilibre de résultats entre tous les matières, même celles qui vous semble les moins importantes. Ce sont souvent ces matières qui permettent aux recruteurs de faire la différence entre les dossiers. Les établissements accordent beaucoup d'importance à la culture générale et aux "soft skills" (les compétences sociales, humaines, éthiques, à l'inverse des "hard skills" qui sont les compétences purement techniques).
+Même si les écoles regarderont principalement les notes en mathématiques, en anglais et celles relatives à vos enseignements de spécialité, il est important d'avoir un bon équilibre de résultats entre toutes les matières, même celles qui vous semble les moins importantes. Ce sont souvent ces matières qui permettent aux recruteurs de faire la différence entre les dossiers. Les établissements accordent beaucoup d'importance à la culture générale et aux "soft skills" (les compétences sociales, humaines, éthiques, à l'inverse des "hard skills" qui sont les compétences purement techniques).
 
 Pour finir, le classement au sein de votre promotion (qui n'est pas déterminant) en dira beaucoup sur votre capacité à être admis dans l'école de votre choix. Un classement qui aura d'autant plus d'importance dans les petites promotions.
 
-*J'estime qu'il faut être dans les 10 % de la tête de promotion pour avoir une bonne école.
+*J'estime qu'il faut être dans les 10 % de la tête de promotion pour avoir une bonne école.*
 
 ### Motivation et projet professionnel
 
@@ -56,24 +56,24 @@ On ne devient pas ingénieur pour le titre ou pour s'enrichir ! Un ingénieur es
 - Quels seront mes projets une fois ingénieur ?
 - En quoi l'école que j'ai choisie peut m'aider à atteindre cet objectif ?
 
-Une fois vos buts sont fixés, il faudra les intégrer à votre lettre de motivation (demander par la quasi-totalité des écoles). Vos profs de communication seront là pour vous guider lors de sa rédaction.
+Une fois vos buts fixés, il faudra les intégrer à votre lettre de motivation (demandé par la quasi-totalité des écoles). Vos profs de communication seront là pour vous guider lors de sa rédaction.
 
 *Certains établissements demandent à leurs candidats des lettres de motivations manuscrites*.
 
 ### Curriculum vitae
 
-Chaque année des centaines d'étudiants préparent le même diplôme que vous, il est donc primordial de sortir du lot et de ne pas être un simple clone. Demander par une grande partie des écoles, le CV permet de voir votre parcours académique et professionnel, vos compétences et vos projets. Se démarquer par rapport à vos camarades sur un CV demande beaucoup d'investissement personnel :
+Chaque année des centaines d'étudiants préparent le même diplôme que vous, il est donc primordial de sortir du lot et de ne pas être un simple clone. Demandé par une grande partie des écoles, le CV permet de voir votre parcours académique et professionnel, vos compétences et vos projets. Se démarquer par rapport à vos camarades sur un CV demande beaucoup d'investissement personnel :
 
-- Approfondir et pousser plus loin les sujets traités en cours (qui sont en générale traité en surface), afin d'ajouter une plus-value à votre dossier, par rapport à la plupart de vos camarades.
+- Approfondir et pousser plus loin les sujets traités en cours (qui sont en général traité en surface), afin d'ajouter une plus-value à votre dossier, par rapport à la plupart de vos camarades.
 - Se lancer dans des projets personnels (en plus des projets scolaires) en lien avec votre projet professionnel.
 - Trouver une alternance, des stages ou des jobs en lien avec votre projet professionnel.
-- Les activités extra-scolaires sont importantes à ajouter, car elle montre votre potentiel à vous investir dans la vie associative des écoles qui est souvent assez développé.
+- Les activités extra-scolaires sont importantes à ajouter, car elle montrent votre potentiel à vous investir dans la vie associative des écoles qui est souvent assez développé.
 
-*Une expérience professionnelle réalisée dans un laboratoire ou une entreprise affiliée à l'école que vous souhaité peut apporter beaucoup de valeur à votre dossier.*
+*Une expérience professionnelle réalisée dans un laboratoire ou une entreprise affiliée à l'école que vous souhaitez peut apporter beaucoup de valeur à votre dossier.*
 
 ### Lettre de recommandation
 
-Demandée par certaines écoles, il est important de munir votre dossier d'une lettre de recommandations (celle d'un professeur ou d'un tuteur de stage par exemple). Pour les DUT Informatique, il y a un avis de poursuites d'études qui fait office de lettre de recommandation.
+Demandé par certaines écoles, il est important de munir votre dossier d'une lettre de recommandation (celle d'un professeur ou d'un tuteur de stage par exemple). Pour les DUT Informatique, il y a un avis de poursuites d'études qui fait office de lettre de recommandation.
 
 ## Bien se préparer
 
