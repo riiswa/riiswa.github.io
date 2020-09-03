@@ -67,7 +67,7 @@ Chaque année des centaines d'étudiants préparent le même diplôme que vous, 
 - Approfondir et pousser plus loin les sujets traités en cours (qui sont en général traité en surface), afin d'ajouter une plus-value à votre dossier, par rapport à la plupart de vos camarades.
 - Se lancer dans des projets personnels (en plus des projets scolaires) en lien avec votre projet professionnel.
 - Trouver une alternance, des stages ou des jobs en lien avec votre projet professionnel.
-- Les activités extra-scolaires sont importantes à ajouter, car elle montrent votre potentiel à vous investir dans la vie associative des écoles qui est souvent assez développé.
+- Les activités extra-scolaires sont importantes à ajouter, car elle montrent votre potentiel à vous investir dans la vie associative des écoles qui est souvent assez développée.
 
 *Une expérience professionnelle réalisée dans un laboratoire ou une entreprise affiliée à l'école que vous souhaitez peut apporter beaucoup de valeur à votre dossier.*
 
