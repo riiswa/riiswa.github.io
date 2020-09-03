@@ -14,7 +14,7 @@ category:
 	- Education
 ---
 
-Les grandes écoles d'ingénieur commencent à s'intéresser de plus en plus aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
+Les grandes écoles d'ingénieur commencent de plus en plus à s'intéresser aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
 
 Après avoir obtenu mon baccalauréat scientifique en 2018, deux choix s'offraient à moi pour entrer en école d'ingénieurs :
 
