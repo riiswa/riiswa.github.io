@@ -7,7 +7,7 @@ tags:
 	- engineer
 	- degree
 	- graduation
-	- sucess
+	- success
 
 thumbnail: /images/thumbnails/engineer.jpg
 category:

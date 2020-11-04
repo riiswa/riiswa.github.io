@@ -5,10 +5,11 @@ tags:
 	- scala.js
 	- github pages
 	- travis ci
-	-  tutorial
+	- tutorial
 	- scala
 	- javascript
 	- web
+	- git
 thumbnail: /images/thumbnails/scala.js-travis.png
 category:
 	- Programming
