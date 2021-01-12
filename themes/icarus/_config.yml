@@ -125,10 +125,13 @@ widgets:
                 url: 'https://www.linkedin.com/in/warisr/'
             Instagram:
                 icon: fab fa-instagram
-                url: 'https://www.instagram.com/waris.ml/'
+                url: 'https://www.instagram.com/riiswa/'
             Mail:
                 icon: fas fa-envelope
-                url: 'mailto:wradji64@gmail.com'
+                url: 'mailto:contact@warisradji.com'
+            Youtube:
+                icon: fab fa-youtube
+                url: 'https://www.youtube.com/channel/UCo1LIStdBpSNS-BXn_JP65w'
             RSS:
                 icon: fas fa-rss
                 url: /atom.xml
