@@ -5,7 +5,7 @@ tags:
 	- weighted calisthenics
 	- streetlifting
 	- reddit
-thumbnail: \images\thumbnails\r_streetliftingathletes.png
+thumbnail: /images/thumbnails/r_streetliftingathletes.png
 category:
 	- Sports
 ---
