@@ -14,5 +14,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-
 Sitemap: warisradji.com/sitemap.xml
