@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2021-01-12T21:37:46.644Z</updated>
+  <updated>2021-01-15T15:44:53.717Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Embed a Jupyter Notebook in Github into your web page in only 2 min.</title>
+    <link href="https://warisradji.com/2021/01/15/embed-jupyter-notebook-into-web-page/"/>
+    <id>https://warisradji.com/2021/01/15/embed-jupyter-notebook-into-web-page/</id>
+    <published>2021-01-15T15:24:04.000Z</published>
+    <updated>2021-01-15T15:44:53.717Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Do you have a Github repository that contains Jupyter Notebooks? Do you want to integrate this Jupyter Notebook into your web page or
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Programming" scheme="https://warisradji.com/categories/Programming/"/>
+    
+    
+      <category term="python" scheme="https://warisradji.com/tags/python/"/>
+    
+      <category term="github" scheme="https://warisradji.com/tags/github/"/>
+    
+      <category term="jupyter notebook" scheme="https://warisradji.com/tags/jupyter-notebook/"/>
+    
+  </entry>
+  
+  <entry>
     <title>A new way to interact with others Streetlifters, the r/streetliftingathletes.</title>
     <link href="https://warisradji.com/2021/01/12/r-streetlifting-athletes/"/>
     <id>https://warisradji.com/2021/01/12/r-streetlifting-athletes/</id>
     <published>2021-01-12T20:39:00.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -52,7 +83,7 @@
     <link href="https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/"/>
     <id>https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/</id>
     <published>2020-12-29T21:54:01.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -89,7 +120,7 @@
     <link href="https://warisradji.com/2020/11/04/my-git-workflow/"/>
     <id>https://warisradji.com/2020/11/04/my-git-workflow/</id>
     <published>2020-11-04T15:00:05.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -122,7 +153,7 @@
     <link href="https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/"/>
     <id>https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/</id>
     <published>2020-09-03T14:02:21.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -159,7 +190,7 @@
     <link href="https://warisradji.com/2020/03/25/making-art-with-scala-processing/"/>
     <id>https://warisradji.com/2020/03/25/making-art-with-scala-processing/</id>
     <published>2020-03-25T21:00:00.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -194,7 +225,7 @@
     <link href="https://warisradji.com/2020/02/11/mass-story-viewer/"/>
     <id>https://warisradji.com/2020/02/11/mass-story-viewer/</id>
     <published>2020-02-11T08:00:00.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -235,7 +266,7 @@
     <link href="https://warisradji.com/2019/12/14/using-scala-with-matplotlib/"/>
     <id>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</id>
     <published>2019-12-14T18:10:59.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -257,13 +288,13 @@
     
       <category term="scala" scheme="https://warisradji.com/tags/scala/"/>
     
+      <category term="jupyter notebook" scheme="https://warisradji.com/tags/jupyter-notebook/"/>
+    
       <category term="data science" scheme="https://warisradji.com/tags/data-science/"/>
     
       <category term="data visualization" scheme="https://warisradji.com/tags/data-visualization/"/>
     
       <category term="matplotlib" scheme="https://warisradji.com/tags/matplotlib/"/>
-    
-      <category term="jupyter notebook" scheme="https://warisradji.com/tags/jupyter-notebook/"/>
     
   </entry>
   
@@ -272,7 +303,7 @@
     <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
     <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
     <published>2019-11-29T08:49:00.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -311,7 +342,7 @@
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
@@ -352,7 +383,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2021-01-12T21:37:46.644Z</updated>
+    <updated>2021-01-15T15:44:53.717Z</updated>
     
     <summary type="html">
     
