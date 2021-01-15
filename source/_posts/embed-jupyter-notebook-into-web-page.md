@@ -44,7 +44,7 @@ Example:
 
 ## Bonus - Full page `iframe`
 
-For a perfect integration of the ``iframe` to the page you must add to your tag the following attributes: `frameborder="0" scrolling="no" frameborder="0" scrolling="no" style="display: block;border: none;width: 100%;height: 100vh;"`
+For a perfect integration of the `iframe` to the page you must add to your tag the following attributes: `frameborder="0" scrolling="no" frameborder="0" scrolling="no" style="display: block;border: none;width: 100%;height: 100vh;"`
 
 Example:
 
