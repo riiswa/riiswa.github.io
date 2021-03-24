@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Choosing the right scala collection (Scala 2.13)
+title: Choosing the right Scala collection (Scala 2.13)
 date: 2021-03-24 13:22:37
 tags:
     - scala
