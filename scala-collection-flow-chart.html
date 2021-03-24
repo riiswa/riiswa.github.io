@@ -69,7 +69,7 @@ graph TB
     end
 
     NEED --> |a sequential collection of elements| SEQ
-    subgraph SEQ_[scala.collection.Set]
+    subgraph SEQ_[scala.collection.Seq]
     SEQ{Indexed ?}
     SEQ --> |yes| SII{Immutable ?}
     SII --> |yes| Vector:::immutable
