@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <title>Choosing the right Scala collection</title>
+        <style>
+            * {
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            }
+        </style>
+    </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+        var config = {
+            mermaid:{
+                startOnLoad:true,
+                htmlLabels:true
+            }
+        };
+        mermaid.initialize(config);
+      </script>
+
+    <h1 style="padding-left: 10px">Choosing the right Scala collection (Scala 2.13)</h1>
+      <p>This page presents a flow-chart that will guide you in choosing your Scala collections. Feel free to contact me to correct or improve this chart.</p>
+      <div>Legend: 
+          <span style="background-color: #9cff99; border: 4px solid #333 !important; padding:4px">Immutable</span>
+          <span style="background-color: #f9f; border: 4px solid #333 !important; padding:4px">Mutable</span>
+          <span style="background-color: #99deff; border: 4px solid #333 !important; padding:4px">Both</span>
+      </div>
+      <p>The flow chart leaves are clickable and redirect you to the official Scala documentation, in order to have more information about the class.</p>
+      
+    <div class="mermaid" style="width: 1920px">
+graph TB
+    classDef immutable fill:#9cff99,stroke:#333,stroke-width:4px;
+    classDef mutable fill:#f9f,stroke:#333,stroke-width:4px;
+    classDef both fill:#99deff,stroke:#333,stroke-width:4px;
+    
+    A[[How to choose the right Scala Collection?]]:::title
+    A --> NEED{You need...}
+    
+    NEED --> |an associative array| MAP{Keep order of <br/>inserted elements}
+    subgraph MAP_[scala.collection.Map]
+    MAP --> |yes| MOO{Immutable?}
+    MOO --> |yes| TreeSeqMap:::immutable
+    click TreeSeqMap "https://www.scala-lang.org/api/current/scala/collection/immutable/TreeSeqMap.html" _blank
+    MOO --> |no| LinkedHashMap:::mutable
+    click LinkedHashMap "https://www.scala-lang.org/api/current/scala/collection/mutable/LinkedHashMap.html" _blank
+    MAP --> |no| MSK{Sort the keys?}
+    MSK --> |yes| SortedMap:::both
+    click SortedMap "https://www.scala-lang.org/api/current/scala/collection/SortedMap.html" _blank
+    MSK --> |no| HashMap:::both
+    click HashMap "https://www.scala-lang.org/api/current/scala/collection/immutable/HashMap.html" _blank
+    end
+
+    NEED --> |a collection that contain<br/> no duplicate elements| SET{Keep order of <br/>inserted elements}
+    subgraph SET_[scala.collection.Set]
+    SET --> |yes| SOO{Opposite order?}
+    SOO --> |yes| ListSet:::immutable
+    click ListSet "https://www.scala-lang.org/api/current/scala/collection/immutable/ListSet.html" _blank
+    SOO --> |no| LinkedHashSet:::mutable
+    click LinkedHashSet "https://www.scala-lang.org/api/current/scala/collection/mutable/LinkedHashSet.html" _blank
+    SET --> |no| SSE{Sort the elements?}
+    SSE --> |yes| SortedSet:::both
+    click SortedSet "https://www.scala-lang.org/api/current/scala/collection/SortedSet.html" _blank
+    SSE --> |no| SNSE{Store integers?}
+    SNSE --> |yes| BitSet:::both
+    click BitSet "https://www.scala-lang.org/api/current/scala/collection/immutable/BitSet.html" _blank
+    SNSE --> |no| HashSet:::both
+    click HashSet "https://www.scala-lang.org/api/current/scala/collection/immutable/HashSet.html" _blank
+    end
+
+    NEED --> |a sequential collection of elements| SEQ
+    subgraph SEQ_[scala.collection.Set]
+    SEQ{Indexed ?}
+    SEQ --> |yes| SII{Immutable ?}
+    SII --> |yes| Vector:::immutable
+    click Vector "https://www.scala-lang.org/api/current/scala/collection/immutable/Vector.html" _blank
+    SII --> |no| FS{Fixed size?}
+    FS --> |yes| Array:::mutable
+    click Array "https://www.scala-lang.org/api/current/scala/Array.html" _blank
+    FS --> |no| ArrayBuffer:::mutable
+    click ArrayBuffer "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayBuffer.html" _blank
+    SEQ --> |no| NIS{Implements a...}
+    NIS --> |Linked list ?|LLII{Immutable ?}
+    LLII --> |yes| LLL{Lazy?}
+    LLL --> |yes| LazyList:::immutable
+    click LazyList "https://www.scala-lang.org/api/current/scala/collection/immutable/LazyList.html" _blank
+    LLL --> |no| List:::immutable
+    click List "https://www.scala-lang.org/api/current/scala/collection/immutable/List.html" _blank
+    LLII --> |no| ArrayDeque:::mutable
+    click ArrayDeque "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayDeque.html" _blank
+    NIS --> |First-in, first-out?| Queue:::both
+    click Queue "https://www.scala-lang.org/api/current/scala/collection/immutable/Queue.html" _blank
+    NIS -->|Last-in, first-out?| Stack:::mutable
+    click Stack "https://www.scala-lang.org/api/current/scala/collection/mutable/Stack.html" _blank
+    NIS -->|Heap?| PriorityQueue:::mutable
+    click PriorityQueue "https://www.scala-lang.org/api/current/scala/collection/mutable/PriorityQueue.html" _blank
+    end
+    </div>
+      Made with <a href="https://mermaid-js.github.io/mermaid/#/">mermaid.js</a> by <a href="..">Waris Radji</a>.
+  </body>
+</html>
