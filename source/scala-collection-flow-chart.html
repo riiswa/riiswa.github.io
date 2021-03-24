@@ -71,7 +71,7 @@ graph TB
     NEED --> |a sequential collection of elements| SEQ
     subgraph SEQ_[scala.collection.Seq]
     SEQ{Indexed ?}
-    SEQ --> |yes| SII{Immutable ?}
+    SEQ --> |"yes (scala.collection.IndexedSeq)"| SII{Immutable ?}
     SII --> |yes| Vector:::immutable
     click Vector "https://www.scala-lang.org/api/current/scala/collection/immutable/Vector.html" _blank
     SII --> |no| FS{Fixed size?}
@@ -79,7 +79,7 @@ graph TB
     click Array "https://www.scala-lang.org/api/current/scala/Array.html" _blank
     FS --> |no| ArrayBuffer:::mutable
     click ArrayBuffer "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayBuffer.html" _blank
-    SEQ --> |no| NIS{Implements a...}
+    SEQ --> |"no (scala.collection.LinearSeq)"| NIS{Implements a...}
     NIS --> |Linked list ?|LLII{Immutable ?}
     LLII --> |yes| LLL{Lazy?}
     LLL --> |yes| LazyList:::immutable
