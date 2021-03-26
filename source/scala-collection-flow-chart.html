@@ -77,7 +77,10 @@ graph TB
     SII --> |no| FS{Fixed size?}
     FS --> |yes| Array:::mutable
     click Array "https://www.scala-lang.org/api/current/scala/Array.html" _blank
-    FS --> |no| ArrayBuffer:::mutable
+    FS --> |no| PFS{Prepend elements <br/> and remove first?}
+    PFS --> |yes| ArrayDeque:::mutable
+    click ArrayDeque "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayDeque.html" _blank
+    PFS --> |no| ArrayBuffer:::mutable
     click ArrayBuffer "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayBuffer.html" _blank
     SEQ --> |"no (scala.collection.LinearSeq)"| NIS{Implements a...}
     NIS --> |Linked list ?|LLII{Immutable ?}
@@ -86,8 +89,8 @@ graph TB
     click LazyList "https://www.scala-lang.org/api/current/scala/collection/immutable/LazyList.html" _blank
     LLL --> |no| List:::immutable
     click List "https://www.scala-lang.org/api/current/scala/collection/immutable/List.html" _blank
-    LLII --> |no| ArrayDeque:::mutable
-    click ArrayDeque "https://www.scala-lang.org/api/current/scala/collection/mutable/ArrayDeque.html" _blank
+    LLII --> |no| ListBuffer:::mutable
+    click ListBuffer "https://www.scala-lang.org/api/current/scala/collection/mutable/ListBuffer.html" _blank
     NIS --> |First-in, first-out?| Queue:::both
     click Queue "https://www.scala-lang.org/api/current/scala/collection/immutable/Queue.html" _blank
     NIS -->|Last-in, first-out?| Stack:::mutable
