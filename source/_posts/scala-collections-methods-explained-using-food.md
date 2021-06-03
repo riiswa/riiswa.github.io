@@ -1,6 +1,6 @@
 ---
 title: Scala collections methods explained using food 😋
-date: 2021-06-07 10:00:00
+date: 2021-06-04 10:00:00
 tags:
 	- scala
 	- scala-collection
@@ -16,4 +16,3 @@ In Scala there are not only map, filter, and reduce methods, Scala collections c
 ![Scala collections methods explained using food 😋](/images/scala_collections_methods_explained_using_food.png)
 
 Naturally, any suggestions are welcome 😉.
-
