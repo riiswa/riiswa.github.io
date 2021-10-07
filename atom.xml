@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2021-06-04T10:18:10.377Z</updated>
+  <updated>2021-10-07T13:24:31.345Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -14,14 +14,14 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Scala collections methods explained using food 😋</title>
     <link href="https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/"/>
     <id>https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/</id>
     <published>2021-06-04T10:00:00.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;In Scala there are not only map, filter, and reduce methods, Scala collections classes come with dozens of very useful pre-built
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;In Scala there are not only map, filter, and reduce methods, Scala collections classes come with dozens of very
         
       
     
@@ -54,7 +54,7 @@
     <link href="https://warisradji.com/2021/03/24/choosing-the-right-scala-collection/"/>
     <id>https://warisradji.com/2021/03/24/choosing-the-right-scala-collection/</id>
     <published>2021-03-24T13:22:37.000Z</published>
-    <updated>2021-06-04T10:18:10.373Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -62,7 +62,7 @@
       
         
         
-          &lt;p&gt;Scala has a very rich and complete &lt;a href=&quot;https://docs.scala-lang.org/overviews/collections/overview.html&quot; target=&quot;_blank&quot;
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Scala has a very rich and complete &lt;a href=&quot;https://docs.scala-lang.org/overviews/collections/overview.html&quot;
         
       
     
@@ -85,7 +85,7 @@
     <link href="https://warisradji.com/2021/01/12/r-streetlifting-athletes/"/>
     <id>https://warisradji.com/2021/01/12/r-streetlifting-athletes/</id>
     <published>2021-01-12T20:39:00.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -93,7 +93,7 @@
       
         
         
-          &lt;p&gt;Repost of &lt;a href=&quot;https://www.instagram.com/p/CJq8Wfgr-TV/&quot; target=&quot;_blank&quot;
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Repost of &lt;a href=&quot;https://www.instagram.com/p/CJq8Wfgr-TV/&quot; target=&quot;_blank&quot;
         
       
     
@@ -116,7 +116,7 @@
     <link href="https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/"/>
     <id>https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/</id>
     <published>2020-12-29T21:54:01.000Z</published>
-    <updated>2021-06-04T10:18:10.373Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -124,7 +124,7 @@
       
         
         
-          &lt;p&gt;On &lt;a href=&quot;www.instagram.com&quot;&gt;Instagram&lt;/a&gt;, if a hashtag is often used on a publication type that &lt;a
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;On &lt;a href=&quot;www.instagram.com&quot;&gt;Instagram&lt;/a&gt;, if a hashtag is often used on a publication type that &lt;a
         
       
     
@@ -153,7 +153,7 @@
     <link href="https://warisradji.com/2020/11/04/my-git-workflow/"/>
     <id>https://warisradji.com/2020/11/04/my-git-workflow/</id>
     <published>2020-11-04T15:00:05.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -161,7 +161,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://git-scm.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Git&lt;/a&gt; is for a long time my favorite &lt;a
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://git-scm.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Git&lt;/a&gt; is for a long time my favorite &lt;a
         
       
     
@@ -186,7 +186,7 @@
     <link href="https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/"/>
     <id>https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/</id>
     <published>2020-09-03T14:02:21.000Z</published>
-    <updated>2021-06-04T10:18:10.373Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -194,7 +194,7 @@
       
         
         
-          &lt;p&gt;Les grandes écoles d’ingénieurs commencent de plus en plus à s’intéresser aux profils issus d’autres formations que la prestigieuse
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Les grandes écoles d’ingénieurs commencent de plus en plus à s’intéresser aux profils issus d’autres formations
         
       
     
@@ -223,7 +223,7 @@
     <link href="https://warisradji.com/2020/03/25/making-art-with-scala-processing/"/>
     <id>https://warisradji.com/2020/03/25/making-art-with-scala-processing/</id>
     <published>2020-03-25T21:00:00.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -231,7 +231,7 @@
       
         
         
-          &lt;p&gt;During my long periods of confinement, I got the idea of exploring new innovative areas of computer science. I really love the
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;During my long periods of confinement, I got the idea of exploring new innovative areas of computer science. I
         
       
     
@@ -258,7 +258,7 @@
     <link href="https://warisradji.com/2020/02/11/mass-story-viewer/"/>
     <id>https://warisradji.com/2020/02/11/mass-story-viewer/</id>
     <published>2020-02-11T08:00:00.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -266,7 +266,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Instagram&lt;/a&gt; influencers discovered a new way to increase their
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Instagram&lt;/a&gt; influencers discovered a new
         
       
     
@@ -299,7 +299,7 @@
     <link href="https://warisradji.com/2019/12/14/using-scala-with-matplotlib/"/>
     <id>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</id>
     <published>2019-12-14T18:10:59.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -307,7 +307,7 @@
       
         
         
-          &lt;p&gt;Data visualization is very important in the life of a data scientist. It helps him to explore data more intuitively than thousands of
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Data visualization is very important in the life of a data scientist. It helps him to explore data more
         
       
     
@@ -336,7 +336,7 @@
     <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
     <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
     <published>2019-11-29T08:49:00.000Z</published>
-    <updated>2021-06-04T10:18:10.377Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -344,7 +344,7 @@
       
         
         
-          &lt;p&gt;Today we’re going to see how supervized learning model can help a machine to name color from its RGB value. The programming language
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Today we’re going to see how supervized learning model can help a machine to name color from its RGB value. The
         
       
     
@@ -375,7 +375,7 @@
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2021-06-04T10:18:10.373Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -383,7 +383,7 @@
       
         
         
-          &lt;p&gt;Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app on Github pages. All your
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Today we are going to use Travis CI (free for an open-source repository) to deploy continuously a Scala.js app
         
       
     
@@ -416,7 +416,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2021-06-04T10:18:10.373Z</updated>
+    <updated>2021-10-07T13:24:31.345Z</updated>
     
     <summary type="html">
     
@@ -424,7 +424,7 @@
       
         
         
-          &lt;p&gt;Welcome to the launch of my new and 1st website! My name is Waris Radji and I’m so excited to share with you my knowledge! The amount of
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to the launch of my new and 1st website! My name is Waris Radji and I’m so excited to share with you my
         
       
     
