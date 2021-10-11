@@ -61,3 +61,32 @@ Quand les données sont stockées dans des tableaux c'est simple, les caractéri
 La partie la plus évidente. Tout problème peut être résolu différemment. La méthode choisie influence la précision, les performances et la taille du modèle final. Il faut néanmoins souligner que si les données sont mauvaises, même le meilleur algorithme ne sera d'aucune utilité. C'est ce qu'on appelle parfois "garbage in, garbage out" - si vous entrez de mauvaises données, vous obtiendrez de mauvais résultats. Ne prêtez donc pas trop d'attention au pourcentage de précision, essayez d'abord d'acquérir davantage de données.
 
 <img src="/images/machine-learning-for-everyone/03.jpg">
+
+## Apprentissage VS Intelligence
+
+Un jour, j'ai vu un article intitulé "les réseaux de neurones remplaceront-ils l'apprentissage automatique ?" sur un site de média. Ces types de médias comparent toujours n'importe quelle régression linéaire à de l'intelligence artificielle, même à SkyNet. Voici une image simple pour montrer qui est qui.
+
+<img src="/images/machine-learning-for-everyone/04.jpg">
+
+**L'intelligence artificielle** (Artifial Intelligence) est le nom d'un domaine de connaissance entier, similaire à la biologie ou à la chimie.
+
+**L'apprentissage automatique** (Machine Learning) est une partie de l'intelligence artificielle. Une partie assez importante, mais pas la seule.
+
+**Les réseaux de neurones** (Neural Networks) sont un type d'apprentissage automatique. Un type très populaire, mais il y a d'autres bon éléments.
+
+**L'apprentissage profond** (Deep learning) est une méthode moderne pour construire, entrainer et utiliser les réseaux de neurones. En fait, il s'agit d'une nouvelle architecture. De nos jours, en pratique, personne ne distingue l'apprentissage profond des "réseaux ordinaires". Nous utilisons les mêmes bibliothèques pour les manipuler. Pour ne pas passer pour un imbécile, il est préférable de nommer le type de réseau et d'éviter les mots à la mode.
+
+La règle générale est de comparer les choses au même niveau. C'est pourquoi la phrase "les réseaux de neurones remplaceront-ils l'apprentissage automatique ?" ressemble à "les roues vont-elles remplacer les voitures". Chers médias, cela remet beaucoup en doute notre réputation.
+
+| La machine peut             | Les machine ne peut pas         |
+|-----------------------------|---------------------------------|
+| Prédire                     | Créer quelque chose de nouveau  |
+| Mémoriser                   | Devenir intelligente rapidement |
+| Reproduire                  | Aller au-delà de leur tâche     |
+| Choisir le meilleur élément | Tuer tous les humains           |
+
+## La carte du monde de l'apprentissage automatique
+
+Si vous êtes trop paresseux pour les longues lectures, jetez un coup d'œil à l'image ci-dessous pour vous faire une idée.
+
+<img src="https://i.vas3k.ru/7vx.jpg">
