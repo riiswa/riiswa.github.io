@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://warisradji.com/"/>
-  <updated>2021-10-07T13:24:31.345Z</updated>
+  <updated>2021-12-01T22:54:09.780Z</updated>
   <id>https://warisradji.com/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AoC 2021 in Scala - Day 1: Sonar Sweep</title>
+    <link href="https://warisradji.com/2021/12/01/aoc2021-day1/"/>
+    <id>https://warisradji.com/2021/12/01/aoc2021-day1/</id>
+    <published>2021-12-01T23:08:38.000Z</published>
+    <updated>2021-12-01T22:54:09.780Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;Puzzle-description&quot;&gt;&lt;a href=&quot;#Puzzle-description&quot; class=&quot;headerlink&quot; title=&quot;Puzzle description&quot;&gt;&lt;/a&gt;Puzzle
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Programming" scheme="https://warisradji.com/categories/Programming/"/>
+    
+    
+      <category term="advent of code" scheme="https://warisradji.com/tags/advent-of-code/"/>
+    
+      <category term="scala" scheme="https://warisradji.com/tags/scala/"/>
+    
+      <category term="competitive programming" scheme="https://warisradji.com/tags/competitive-programming/"/>
+    
+      <category term="algorithms" scheme="https://warisradji.com/tags/algorithms/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Scala collections methods explained using food 😋</title>
     <link href="https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/"/>
     <id>https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/</id>
     <published>2021-06-04T10:00:00.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -54,7 +87,7 @@
     <link href="https://warisradji.com/2021/03/24/choosing-the-right-scala-collection/"/>
     <id>https://warisradji.com/2021/03/24/choosing-the-right-scala-collection/</id>
     <published>2021-03-24T13:22:37.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -85,7 +118,7 @@
     <link href="https://warisradji.com/2021/01/12/r-streetlifting-athletes/"/>
     <id>https://warisradji.com/2021/01/12/r-streetlifting-athletes/</id>
     <published>2021-01-12T20:39:00.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -116,7 +149,7 @@
     <link href="https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/"/>
     <id>https://warisradji.com/2020/12/29/automatically-detect-banned-Instagram-hashtags/</id>
     <published>2020-12-29T21:54:01.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -153,7 +186,7 @@
     <link href="https://warisradji.com/2020/11/04/my-git-workflow/"/>
     <id>https://warisradji.com/2020/11/04/my-git-workflow/</id>
     <published>2020-11-04T15:00:05.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -186,7 +219,7 @@
     <link href="https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/"/>
     <id>https://warisradji.com/2020/09/03/comment_integrer_une_bonne_ecole_dingenieurs_apres_un_DUT/</id>
     <published>2020-09-03T14:02:21.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -223,7 +256,7 @@
     <link href="https://warisradji.com/2020/03/25/making-art-with-scala-processing/"/>
     <id>https://warisradji.com/2020/03/25/making-art-with-scala-processing/</id>
     <published>2020-03-25T21:00:00.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -258,7 +291,7 @@
     <link href="https://warisradji.com/2020/02/11/mass-story-viewer/"/>
     <id>https://warisradji.com/2020/02/11/mass-story-viewer/</id>
     <published>2020-02-11T08:00:00.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -299,7 +332,7 @@
     <link href="https://warisradji.com/2019/12/14/using-scala-with-matplotlib/"/>
     <id>https://warisradji.com/2019/12/14/using-scala-with-matplotlib/</id>
     <published>2019-12-14T18:10:59.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -317,9 +350,9 @@
       <category term="Data Science" scheme="https://warisradji.com/categories/Data-Science/"/>
     
     
-      <category term="python" scheme="https://warisradji.com/tags/python/"/>
-    
       <category term="scala" scheme="https://warisradji.com/tags/scala/"/>
+    
+      <category term="python" scheme="https://warisradji.com/tags/python/"/>
     
       <category term="data science" scheme="https://warisradji.com/tags/data-science/"/>
     
@@ -336,7 +369,7 @@
     <link href="https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/"/>
     <id>https://warisradji.com/2019/11/29/name-color-from-its-rgb-value/</id>
     <published>2019-11-29T08:49:00.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -375,7 +408,7 @@
     <link href="https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/"/>
     <id>https://warisradji.com/2019/11/08/deploying-scala-js-app-on-github-pages-with-travis-ci/</id>
     <published>2019-11-08T16:10:37.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
@@ -416,7 +449,7 @@
     <link href="https://warisradji.com/2019/10/31/hello/"/>
     <id>https://warisradji.com/2019/10/31/hello/</id>
     <published>2019-10-31T12:09:56.000Z</published>
-    <updated>2021-10-07T13:24:31.345Z</updated>
+    <updated>2021-12-01T22:54:09.780Z</updated>
     
     <summary type="html">
     
