@@ -1,5 +1,5 @@
 ---
-title: Comment intégrer une bonne école d'ingénieurs après un DUT ?
+title: Comment intégrer une bonne école d'ingénieurs après un DUT (ou BUT) ?
 date: 2020-09-03 14:02:21
 tags:
 	- education
@@ -8,11 +8,17 @@ tags:
 	- degree
 	- graduation
 	- success
+	- but
+	- dut
+
 
 thumbnail: /images/thumbnails/engineer.jpg
 category:
 	- Education
 ---
+
+> Edit du 18/02/2022 : Je ne sais pas vraiment comment fonctionne le nouveau diplôme [BUT ou bachelor universitaire de technologie](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/but-informatique), mais il me semble qu'il y a des passerelles en deuxième année vers les écoles d'ingénieurs. Je pense donc que mes précédents conseils restent pertinents.
+
 
 Les grandes écoles d'ingénieurs commencent de plus en plus à s'intéresser aux profils issus d'autres formations que la prestigieuse classe préparatoire aux grandes écoles. De nombreuses passerelles permettent aujourd'hui aux étudiants impliqués et motivés, qui ont fait un DUT, une licence ou un BTS d'atteindre leurs objectifs.
 
