@@ -137,7 +137,7 @@ widgets:
                 url: /atom.xml
     -
         # Widget name
-        type: links
+        type: More cool blogs
         # Where should the widget be placed, left or right
         position: left
         # Links to be shown in the links widget
