@@ -137,14 +137,14 @@ widgets:
                 url: /atom.xml
     -
         # Widget name
-        type: Other cool blogs
+        type: links
         # Where should the widget be placed, left or right
         position: left
         # Links to be shown in the links widget
         links:
-            Yanis Mansour's blog: 'https://www.yanismansour.com/'
-            Hugo Elhaj-Lahsen's blog: 'https://xy2.dev/'
-            Hector Piteau's blog: 'https://hepiteau.com/'
+            "Yanis Mansour's blog": 'https://www.yanismansour.com/'
+            "Hugo Elhaj-Lahsen's blog": 'https://xy2.dev/'
+            "Hector Piteau's blog": 'https://hepiteau.com/'
     -
         # Widget name
         type: toc
