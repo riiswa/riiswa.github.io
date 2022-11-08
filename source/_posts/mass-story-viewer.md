@@ -114,4 +114,12 @@ while True:
 
 It's a script that can run on a machine 24 hours a day,  7 days a week, to watch thousands upon thousands of stories and has rest periods to avoid detection of suspicious activity by Instagram. You can also [use a proxy](https://github.com/instagrambot/instabot/issues/262#issuecomment-313595253) to avoid problems with your account.
 
-Very short article but I hope that it can save people from spending their money on mass looking through overpriced services...
+## Introducing pre-made tools for mass Instagram story visits
+
+Certainly, there are also pre-made tools that don't cost much and can get you out of script troubles. One of the best examples of these tools is the virtual user massive Instagram story visit bot. This bot can work in two ways:
+1. You introduce multiple accounts to this bot and the bot will visit your desired story with each of these accounts to increase the visits for the story.
+2. The bot will automatically visit your following stories with your account; thus, it increases your interaction with others on Instagram and draws their attention to your profile.
+
+Needless to say, be careful that the more charming your profile picture is, the more probable your profile will be viewed (among the visitors of a story) and the more useful and professional content you have published on your page, the more likely it is to attract likes, comments and the following for your page will increase.
+
+For more information on how the bot works visit the following link: [Auto Instagram Story Viewer Bot](https://www.v-user.com/en/knowledge-base/auto-instagram-story-viewer).
