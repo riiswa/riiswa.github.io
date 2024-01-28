@@ -6,12 +6,14 @@
             </h3>
             <div class="field is-grouped is-grouped-multiline">
                 <% _list_tags().forEach(tag => { %>
-                <div class="control">
-                    <a class="tags has-addons" href="<%= tag.url %>">
-                        <span class="tag"><%= tag.name %></span>
-                        <span class="tag is-grey"><%= tag.count %></span>
-                    </a>
-                </div>
+                    <% if (tag.count > 1) { %>
+                        <div class="control">
+                            <a class="tags has-addons" href="<%= tag.url %>">
+                                <span class="tag"><%= tag.name %></span>
+                                <span class="tag is-link"><%= tag.count %></span>
+                            </a>
+                        </div>
+                    <% } %>
                 <% }) %>
             </div>
         </div>

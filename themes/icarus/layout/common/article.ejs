@@ -120,8 +120,15 @@
 <% if (!index && has_config('comment.type')) { %>
 <div class="card">
     <div class="card-content">
-        <h3 class="title is-5 has-text-weight-normal"><%= __('article.comments') %></h3>
-        <%- _partial('comment/' + get_config('comment.type')) %>
+        <script src="https://utteranc.es/client.js"
+            repo="riiswa/riiswa.github.io"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+        </script>
+        <!-- <h3 class="title is-5 has-text-weight-normal"><%= __('article.comments') %></h3>
+        <%- _partial('comment/' + get_config('comment.type')) %> -->
     </div>
 </div>
 <% } %>

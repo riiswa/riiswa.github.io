@@ -26,7 +26,6 @@ navbar:
     # Navigation bar menu links
     menu:
         Home: /
-        Projects: /projects
         Resume: 'https://riiswa.github.io/resume/'
         About: /about
     # Navigation bar links to be shown on the right
@@ -104,7 +103,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: Waris Radji
         # Title of the author to be shown in the profile widget
-        author_title: Scala & Data Science Enthusiast | Engineering Student at ENSEIRB-MATMECA
+        author_title: Reinforcement Learning Research Engineer at INRIA
         # Author's current location to be shown in the profile widget
         location: Paris, France
         # Path or URL to the avatar to be shown in the profile widget
@@ -162,7 +161,7 @@ widgets:
         position: right
     -
         # Widget name
-        type: tagcloud
+        type: tag
         # Where should the widget be placed, left or right
         position: right
 
@@ -185,7 +184,7 @@ plugins:
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
     google-analytics:
         # Google Analytics tracking id
-        tracking_id: UA-151176535-1
+        tracking_id: #UA-151176535-1
     # Baidu Analytics plugin settings
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
     baidu-analytics:
