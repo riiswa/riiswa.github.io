@@ -27,7 +27,7 @@ navbar:
     menu:
         Home: /
         Resume: 'https://riiswa.github.io/resume/'
-        About: /about
+        Publications: 'https://scholar.google.com/citations?hl=en&user=cgHgd_gAAAAJ'
     # Navigation bar links to be shown on the right
     links:
         My GitHub:
@@ -103,7 +103,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: Waris Radji
         # Title of the author to be shown in the profile widget
-        author_title: Reinforcement Learning Research Engineer at INRIA
+        author_title: PhD Student in Deep/Theoretical Reinforcement Learning at Inria
         # Author's current location to be shown in the profile widget
         location: Paris, France
         # Path or URL to the avatar to be shown in the profile widget
@@ -117,22 +117,19 @@ widgets:
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
-                icon: fab fa-github
+                icon: fa-brands fa-github
                 url: 'https://github.com/riiswa'
+            Scholar:
+                icon: fa-brands fa-google-scholar
+                url: 'https://scholar.google.com/citations?hl=en&user=cgHgd_gAAAAJ'
             LinkedIn:
-                icon: fab fa-linkedin-in
+                icon: fa-brands fa-linkedin-in
                 url: 'https://www.linkedin.com/in/warisr/'
             Instagram:
-                icon: fab fa-instagram
+                icon: fa-brands fa-instagram
                 url: 'https://www.instagram.com/riiswa/'
-            Mail:
-                icon: fas fa-envelope
-                url: 'mailto:contact@warisradji.com'
-            Youtube:
-                icon: fab fa-youtube
-                url: 'https://www.youtube.com/channel/UCo1LIStdBpSNS-BXn_JP65w'
             RSS:
-                icon: fas fa-rss
+                icon: fa-solid fa-rss
                 url: /atom.xml
     -
         # Widget name
@@ -141,9 +138,8 @@ widgets:
         position: left
         # Links to be shown in the links widget
         links:
-            "Yanis Mansour's blog": 'https://www.yanismansour.com/'
-            "Hugo Elhaj-Lahsen's blog": 'https://xy2.dev/'
-            "Hector Piteau's blog": 'https://hepiteau.com/'
+            "Inria Scool": 'https://team.inria.fr/scool'
+            "Hector Piteau": 'https://hepiteau.com/'
     -
         # Widget name
         type: toc

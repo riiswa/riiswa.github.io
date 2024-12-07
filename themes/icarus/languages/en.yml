@@ -15,7 +15,7 @@ common:
     next: 'Next'
 widget:
     follow: 'Follow me on Github'
-    recents: 'Recent'
+    recents: 'Recent Articles'
     links: 'Links'
     tag_cloud: 'Tag Cloud'
     catalogue: 'Catalogue'
